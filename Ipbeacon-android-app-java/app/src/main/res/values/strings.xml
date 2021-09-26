@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">IPBeacons</string>
+    <string name="you_are_a">You are a</string>
+    <string name="student">Student</string>
+    <string name="teacher">Teacher</string>
+    <string name="others">Others</string>
+    <string name="forgot_your_password">Forgot your password ?</string>
+    <string name="don_t_have_account">Don\'t have account ?</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign up</string>
+    <string name="login">Login</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="Email">Email</string>
+    <string name="ipbregisterednumber">IPB registered number</string>
+    <string name="UserName">UserName</string>
+    <string name="shailab">shailab</string>
+    <string name="your_notifications">Your Notifications</string>
+    <string name="information_is_here">Information is here</string>
+    <string name="click_for_more"><![CDATA[<<click for more>>]]></string>
+    <string name="information_is_herevdlkm_dfndj_jodfndjf_djofdnkfmkfm_fkdfmndkf_dkfnd">information_is_herevdlkm_dfndj jodfndjf djofdnkfmkfm fkdfmndkf dkfnd</string>
+    <string name="more"><![CDATA[<<more>>]]></string>
+
+</resources>

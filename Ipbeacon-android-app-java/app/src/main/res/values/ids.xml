@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="topbar" type="id" />
+    <item name="fullname" type="id" />
+    <item name="registerednumber" type="id" />
+    <item name="phone" type="id" />
+    <item name="email" type="id" />
+    <item name="password" type="id" />
+    <item name="signup" type="id" />
+    <item name="accountalready" type="id" />
+</resources>
